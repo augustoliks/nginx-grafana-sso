@@ -12,7 +12,7 @@ Proxy de autenticação entre NGINX e Grafana.
 docker-compose up --build -d
 ```
 
-Com os containers em operação, acessar: http://127.0.0.1:8080
+Com os containers em operação, acessar: http://127.0.0.1:8080/grafana/
 
 # Resultado
 
